@@ -35,7 +35,7 @@ The file format is
 | 8-11  | width       | uint32   | `0000 0200` | 512     | 
 | 12-15 | height      | uint32   | `0000 0200` | 512     |
 | 16    | channels    | uint8    | `03`        | 3       |
-| 17    | model       | uint16   | `0001`      | 1       |
-| 18-   | pixels      | encoded  | ...         | ...     |
+| 17-18 | model       | uint16   | `0001`      | 1       |
+| 19-   | pixels      | encoded  | ...         | ...     |
 
 
