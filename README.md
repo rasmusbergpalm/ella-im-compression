@@ -1,6 +1,6 @@
 # Ella image compression
 
-A tiny image compression library using arithmetic coding
+A tiny lossless image compression library using arithmetic coding
 
 ### Usage
 
