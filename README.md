@@ -10,7 +10,7 @@ Encoding
 
 Decoding
 
-`ella d <input> <output>` e.g. `ella d input.ella output.ella`
+`ella d <input> <output>` e.g. `ella d input.ella output.png`
 
 ### Details
 
